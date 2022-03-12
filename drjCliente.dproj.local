@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/25 11:53:55.000.867,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/12 14:10:10.805,=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/12 14:23:49.660,C:\Users\daniel\Desktop\Interface_Exemplo\View.Cliente.dfm=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022/03/12 14:23:49.660,C:\Users\daniel\Desktop\Interface_Exemplo\View.Cliente.pas=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2022/03/12 14:25:05.328,C:\Users\daniel\Desktop\Interface_Exemplo\drjCliente.dproj=C:\Users\daniel\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/12 14:25:21.548,=C:\Users\daniel\Desktop\Interface_Exemplo\Unit1.pas</Transaction>
+    <Transaction>2022/03/12 14:26:09.347,C:\Users\daniel\Desktop\Interface_Exemplo\Interfaces.Cliente.pas=C:\Users\daniel\Desktop\Interface_Exemplo\Unit1.pas</Transaction>
+    <Transaction>2022/03/12 14:31:26.523,=C:\Users\daniel\Desktop\Interface_Exemplo\Unit1.pas</Transaction>
+    <Transaction>2022/03/12 14:32:07.620,C:\Users\daniel\Desktop\Interface_Exemplo\model.Cliente.pas=C:\Users\daniel\Desktop\Interface_Exemplo\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
